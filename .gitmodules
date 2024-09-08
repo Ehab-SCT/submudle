@@ -1,0 +1,3 @@
+[submodule "react-native-refresh"]
+	path = react-native-refresh
+	url = https://github.com/Ehab-SCT/react-native-refresh
